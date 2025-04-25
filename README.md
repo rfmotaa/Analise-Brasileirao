@@ -74,6 +74,7 @@ They are in the following order
 - Points accumulated per round for comparison between 2 teams.
 - Goals scored and conceded per round for each team.
 - Total goals per round.
+(In Comparation.py and Efficiency.py you'll choose what team you want to analyse)
 ```bash
 python src/Comparation.py
 python src/Efficiecy.py
